@@ -1,0 +1,25 @@
+ var username = prompt("Please Enter your name: ")
+  var GameConfig = {
+    var HP=20;
+    var ST=20;
+    var MP=5;
+    var Int=0;
+    var Str=0;
+    var Sp=0;
+    var End=0;
+    var Accuracy=0;
+    var HitChance=0;
+    var CritChance=0;
+    var CritPercentage=0;
+    var FireResistance=0;
+    var StormResistance=0;
+    var EarthResistance=0;
+    var WaterResistance=0;
+    var Armor=0;
+    var AttackSpeed=0;
+    var DamageCap=0;
+    var DamageRed=0;
+    var MeeleDamage=0;
+    var RangedDamage=0;
+    var StatPoints=4;
+  }
